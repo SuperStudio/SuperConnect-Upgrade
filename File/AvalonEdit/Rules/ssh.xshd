@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SyntaxDefinition name="SSH" xmlns="http://icsharpcode.net/sharpdevelop/syntaxdefinition/2008">
+	<RuleSet >
+		<Keywords fontWeight="bold" foreground="#FFE34A4B">
+			<Word>failed</Word>
+		</Keywords>
+
+		<Keywords fontWeight="bold" foreground="#FF72B677">
+			<Word>login</Word>
+		</Keywords>
+
+		<Rule foreground="#FF747474">\[[a-zA-Z0-9]+\@[a-zA-Z0-9-]+\ .+\]\#</Rule>
+		<Keywords foreground="#FFE34A4B">
+			<Word>command not found</Word>
+		</Keywords>
+
+		<Rule fontWeight="bold" foreground="#FFAB46BD">Python|python</Rule>
+		<Keywords foreground="#FF505050">
+			<Word>>>></Word>
+		</Keywords>
+
+	</RuleSet>
+</SyntaxDefinition>

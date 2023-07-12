@@ -1,0 +1,16 @@
+{
+  "Date": "2023-07-13",
+  "Data": [
+    {
+      "Type": "Hint",
+      "Message": "欢迎使用 SuperConnect"
+    },
+    {
+      "Type": "Hint",
+      "Message": "作者：Chao，致力于打造开源好用的国产软件",
+      "Urls": {
+        "主页": "https://github.com/SuperStudio"
+      }
+    }
+  ]
+}

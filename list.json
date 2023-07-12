@@ -1,0 +1,6 @@
+{
+  "FileName": 
+    ["EntityFramework.dll","EntityFramework.SqlServer.dll","ICSharpCode.AvalonEdit.dll","Newtonsoft.Json.dll","Renci.SshNet.dll","SuperConnect.exe","SuperControls.Style.dll","SuperUtils.dll","System.Data.SQLite.dll","System.Data.SQLite.EF6.dll","System.Data.SQLite.Linq.dll","AvalonEdit\\Rules\\ssh.xshd","x64\\SQLite.Interop.dll","x86\\SQLite.Interop.dll"],
+  "FileHash": 
+    ["ffdcf232d0bb2fff78721fb347641a76","af1646b1c2227ab206d855bd068535cf","3967e0291795ed951aef645381ab21df","a6de3ab52935c916ad61b5cba6f6af06","5b1af51340f333cd8a49376b13afcf9c","7bea00fd4d2a713dca50e4491b55a9ef","deea5e07706e770da39b52b25af55b05","608890ef38f825a0b2a06d7628278805","147328def2e79a86d7335a661eecc051","c4f999c91e9f5040b16a137ea7d89e82","59498a0f662dbc18d751a6af9d0e7173","874567de8e579c47d32993505e1ed90d","1288823e8e1fca09bb490ce46988188d","9b68a8d0393fbce1976c19107422f097"]
+}
